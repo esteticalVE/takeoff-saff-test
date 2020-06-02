@@ -1,0 +1,8 @@
+.tableCells td {
+  vertical-align: middle;
+}
+
+.tableCells > td > div {
+  display: flex;
+  justify-content: space-around;
+}
